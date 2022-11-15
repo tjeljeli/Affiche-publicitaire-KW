@@ -1,0 +1,26 @@
+
+h1 {
+    color:red;
+    text-shadow: 0.1em 0.1em 0.1em black;
+    font-weight:bolder;
+}
+
+h1{
+    font-weight:bolder;
+    color:red;
+    font-weight:bolder;
+    text-align:justify;
+}
+
+body{
+
+    font-family:'OpenSans',sans-serif;
+    color:black;
+    background-color:white;
+    background-image:url(https://f.hellowork.com/media/10417/1440_960/KaeferWanner_10417_637401846333760645.jpeg);
+    background-repeat:no-repeat;
+    background-size: linear;
+     background-attachment:fixed;
+}
+
+
